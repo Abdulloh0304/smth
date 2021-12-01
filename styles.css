@@ -14,10 +14,12 @@ body{
     justify-content: space-around;
 
 }
+
 .lc{
     margin: 0 auto;
     text-align: center;
 }
+
 @media screen and (max-width: 600px) {
     div.example {
       display: none;
@@ -28,4 +30,11 @@ body{
     justify-content: space-around;
     }
     
-  }
+}
+.ims:hover{
+    box-shadow: 10px 10px 30px 30px rgb(2, 164, 170);
+    border-radius: 50%;
+    transform: rotateY(360deg);
+    transition: 1s ease;
+    background-color: rgb(224, 224, 217);
+}
