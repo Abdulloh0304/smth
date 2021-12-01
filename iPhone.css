@@ -5,6 +5,7 @@ body{
 }
 .contanier{
     text-align-last: center;
+    color: rgb(224, 180, 99);
 }
 .img{
     flex-direction: row;
