@@ -38,3 +38,26 @@ body{
     transition: 1s ease;
     background-color: rgb(224, 224, 217);
 }
+.iph:hover{
+    background-color: green;
+    color: white;
+}
+.item{
+    margin-top: 20px;
+    list-style: none;
+    text-decoration: none;
+}
+.items a{
+    text-decoration: none;
+    color: beige;
+}
+
+.items{
+    margin-top: 20px;
+    font-size: 54px;
+}
+
+.items a:hover{
+    background-color: green;
+    color: white;
+}
