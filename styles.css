@@ -6,7 +6,7 @@ body{
 .container{
     font-size: 20px;
     text-align-last: center;
-    color: black;
+    color: rgb(226, 12, 12);
 }
 .row{
     display: flex;
@@ -58,6 +58,6 @@ body{
 }
 
 .items a:hover{
-    background-color: green;
+    background-color:firebrick;
     color: white;
 }
