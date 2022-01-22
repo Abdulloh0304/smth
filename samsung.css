@@ -1,3 +1,13 @@
 .container{
-    text-align: center;
+    text-align-last: center;
+text-decoration: none;
 }
+body{
+background-image: url(https://www.teahub.io/photos/full/1-10978_1920x1080-download-pc-wallpapers-hd-desktop-wallpaper-space.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+@media screen and (max-width: 600px) {
+    div.example {
+      display: none;
+    }
